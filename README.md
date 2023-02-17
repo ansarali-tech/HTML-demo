@@ -28,4 +28,4 @@ about Ordered, Unordered list and Nested List
 
 ## 4chapter
 about links, how to create links between pages, links to other site, directory structure, linking to other part of same page
-- ### 4ONLINE-SHOP is an example of directory structure, how to link between pages.
+- 4ONLINE-SHOP is an example of directory structure, how to link between pages.
